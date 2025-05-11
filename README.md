@@ -1,2 +1,2 @@
 The `old` folder contains an old version\
-The `new` folder contains the current version with the SEGFAULT issue.
+The `segfault_problem` folder contains the current version with the SEGFAULT issue.
